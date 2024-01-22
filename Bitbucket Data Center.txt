@@ -1,0 +1,18 @@
+Use Bitbucket Data Center
+https://confluence.atlassian.com/bitbucketserver/use-bitbucket-data-center-776639769.html
+
+Supported platforms
+https://confluence.atlassian.com/bitbucketserver/supported-platforms-776640981.html
+
+Running Bitbucket Data Center with a dedicated user
+https://confluence.atlassian.com/bitbucketserver/running-bitbucket-data-center-with-a-dedicated-user-776640047.html
+
+Run Bitbucket as a Linux service
+https://confluence.atlassian.com/bitbucketserver/run-bitbucket-as-a-linux-service-776640157.html
+
+Administer Bitbucket Data Center
+https://confluence.atlassian.com/bitbucketserver/administer-bitbucket-data-center-776640044.html
+
+Git resources
+https://confluence.atlassian.com/bitbucketserver/git-resources-776639766.html
+
